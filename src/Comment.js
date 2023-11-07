@@ -1,7 +1,7 @@
 import React from "react";
 
 function Comment() {
-  return <div>Naturally, I agree with this article.</div>;
+  return <>Naturally, I agree with this article.</>;
 }
 
 export default Comment;
